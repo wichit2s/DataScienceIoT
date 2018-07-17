@@ -36,3 +36,4 @@
 * Github Repository: 
 	> https://github.com/wichit2s/DataScienceIoT	
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wichit2s/DataScienceIoT/master?filepath=DataScienceIoT.ipynb)
